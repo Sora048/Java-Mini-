@@ -56,6 +56,5 @@ function gameResult(){
         result = "You Lose!"
     }
 
-    console.log(result)
-    // resultDisplay.textContent = result //it can't display the result on my computer probably yours will
+    resultDisplay.textContent = result 
 }
